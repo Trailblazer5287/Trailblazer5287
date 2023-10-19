@@ -9,15 +9,3 @@
      <img src="https://github-profile-trophy.vercel.app/?username=techking5287" alt="Trailblazer5287" />
   </a>
 </div>
-
-
-- 👋 Hi, I’m @Trailblazer5287
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Trailblazer5287/Trailblazer5287 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
